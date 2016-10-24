@@ -1,0 +1,1 @@
+We have started to figure out how to program the adafruit motor drivers you have provided us and also how they work by the end of this week we should be able to program the motor drivers for our 4 motors then start working on controlling it through bluetooth with the usb host shield and bluetooth dongle.
